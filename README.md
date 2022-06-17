@@ -11,3 +11,4 @@ Untitled Dog Game is a "choose your own adventure" style game to help your pet d
 - run the following code: `python3 untitledDogGame.py`
 
 ## Medium Article: 
+https://medium.com/@oliviavzcampbell/untitled-dog-game-b8b22bbb82ac
