@@ -2,7 +2,7 @@
 Python Terminal Game 
 
 ## Overview: 
-Untitled Dog Game is a "choose your own adventure" style game to help your pet dog dig a hole in the backyard to visit a dog friend. 
+Untitled Dog Game is a "choose your own adventure" style game to help your pet dog dig a hole in the backyard to visit a friend. 
 
 ## How to Play:
 - clone my `untitledDogGame` repository
