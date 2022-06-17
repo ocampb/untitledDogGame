@@ -7,7 +7,7 @@ Untitled Dog Game is a "choose your own adventure" style game to help your pet d
 ## How to Play:
 - clone my `untitledDogGame` repository
 - download and install [Python](https://www.python.org/downloads/)
-- Navigate to `untitledDogGame` in your Terminal application 
-- Run the following code: `python3 untitledDogGame.py`
+- navigate to `untitledDogGame` in your Terminal application 
+- run the following code: `python3 untitledDogGame.py`
 
 ## Medium Article: 
